@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+
+.cabeca {
+    color: white;
+    text-align: center;
+    padding: 45px 0;
+    background-color: black;
+    width: 20% 0;
+}
+
+.img {
+    width: 30%;
+}
+
+.img1 {display: inline block;
+}
